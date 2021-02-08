@@ -3,3 +3,8 @@
 
 ### Introduction
 Life Memories is a project inspired by Instagram where users can upload an image along with any thoughts or comments they have with the assocaited images. 
+
+### Tools Used
+React.js, MongoDB Atlas Cloud Server, Axios, Redux
+
+Make sure you have node.js installed and run with npm start
