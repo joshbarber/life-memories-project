@@ -8,7 +8,7 @@ Life Memories is a MERN CRUD project inspired by Instagram where users can uploa
 **Server commands**: On the server side, make sure to type the commands `npm install body-parser cors express mongoose nodemon`\
 **Client commands**: On the clinent side, make sure to type the commands `npm install axios moment react-file-base64 redux redux-thunk`
 
-**Port server**: Run on `port 5000`
+**Port server**: Server: `port 5000` Client: `port 3000`
 
 ### Tools Used
 React.js, Express.js MongoDB Atlas Cloud Server, Axios, Redux
