@@ -5,7 +5,9 @@
 Life Memories is a MERN CRUD project inspired by Instagram where users can upload an image along with any thoughts or comments they have with the assocaited images.
 
 ### To run the app:
-**Commands**: On the server side, make sure to type the commands `npm install body-parser cors express mongoose nodemon`\
+**Server commands**: On the server side, make sure to type the commands `npm install body-parser cors express mongoose nodemon`\
+**Client commands**: On the clinent side, make sure to type the commands `npm install axios moment react-file-base64 redux redux-thunk`
+
 **Port server**: Run on `port 5000`
 
 ### Tools Used
